@@ -1,0 +1,74 @@
+1)Write the function to  find number of words in the given string
+(note: with using inbuilt methods and without using any inbuilt methods)
+
+
+sample input:
+
+ >>>  hi how are you
+  
+
+output
+---------
+
+ >>>  Total Number of Words in the given String =  4
+
+
+
+
+
+
+
+2)Write the function to  find reverse values , of  given string
+
+NOTE: without using any inbuilt method
+
+
+sample input:
+
+ >>>  welcome to pentagonspace
+  
+
+output
+---------
+
+ >>>   ecapsnogatnep ot emoclew
+
+3.) write a function which iterate the integer from 1- 25.  
+
+•	If the number is a multiple of 2 the output should be "pentagon".
+•	If the number given is a multiple of 3, the output should be "space".
+•	If the number given is a multiple of both 2 and 3, the output should be "pentagonspace".
+•	If the number is not a multiple of either 2 or 3, the number should be output on its own as shown in the examples below.
+
+
+
+output
+-----------
+>>> 
+
+1
+pentagon
+space
+4
+5
+pentagonspace
+7
+pentagon
+space
+pentagon
+11
+
+
+4.)You are given a string. Split the string on a " " (space) delimiter and join using a - hyphen.
+
+
+Sample Input
+-------------------
+>>> this is a string 
+
+
+Sample Output
+-----------------
+>>> this-is-a-string
+
+
